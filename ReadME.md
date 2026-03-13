@@ -1,7 +1,7 @@
 
-# LLM-assisted Clinical Meta-analysis Pipeline (PubMed + LLM + Meta-analysis)
+# LLM-assisted Clinical Meta-analysis Pipeline
 
-임상 질문을 입력하면 PubMed에서 관련 논문을 검색하고, 연구 데이터를 추출하여 메타분석 결과를 생성하는 AI 기반 evidence synthesis 시스템입니다.
+임상 질문을 입력하면 PubMed에서 관련 논문을 검색하고, 연구 데이터를 추출하여 메타분석 결과를 생성하는 AI 기반 evidence synthesis 시스템
 
 이 프로젝트의 목표는 다음 과정을 자동화하는 것입니다.
 
@@ -142,8 +142,8 @@ LLM을 사용해 논문에서 연구 데이터를 추출합니다.
 
 가능한 분석
 
-- Risk Ratio
 - Odds Ratio
+- Hazard Ratio
 - Standardized Mean Difference
 
 통계 모델
